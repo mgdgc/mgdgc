@@ -12,6 +12,26 @@ Android, iOS, Web Developer
   * 한림대학교 소프트웨어융합대학 재학중
 
 
+## 기술 타임라인
+### 대학교
+ * MySQL
+ * JSP
+
+### 고등학교
+ * Kotlin
+ * JavaScript
+ * Python/ Ruby
+ * PHP
+
+### 중학교
+ * Java
+ * C
+ * HTML/ CSS
+
+### 초등학교
+ * Java (기초)
+ * 안드로이드 포팅
+
 ## 개인 프로젝트
 ### 강고 포켓
 
@@ -37,4 +57,21 @@ Android, iOS, Web Developer
   - iOS: [강고 포켓](https://itunes.apple.com/kr/app/강고-포켓/id1384350202?mt=8)
 
 
+### 한컷에 캡처
 
+<img src="/res/kp/kp_app_icon.png" width="100px" height="100px">
+
+> 여러 장의 스크린샷을 한 장으로 간단하게 합성해주는 애플리케이션입니다.
+
+###### Screenshots
+
+
+#### 개발사양
+* 플랫폼: Android
+* 담당 역할
+  - Android 앱 개발/ 유지보수
+* 개발 기술
+  - Android: **Java**
+* 서버: **None**
+* 스토어 링크
+  - Android: ~~https://play.google.com/store/apps/details?id=com.ridsoft.internetcapture~~ (지원 종료)
