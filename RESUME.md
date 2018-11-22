@@ -1,6 +1,7 @@
 최명근 | Choi Myeong-geun
 ========================
-  > Android, iOS, Web Developer<br>빠르게 적응하고 함께 성장하는 개발자
+  <img src="/res/dev.png" width="260px"></img>
+  > 빠르게 적응하고 함께 성장하는 개발자
   
   > <img src="/res/profile.jpg" width="120px"></img>
   
@@ -27,23 +28,23 @@
 
 
 ## 기술 타임라인
-### 대학교
- > * Web
- >   - JSP, MySQL
-
-### 고등학교
- > * Kotlin/ Python/ Ruby
- > * Web
- >   - JavaScript/ PHP
+### 초등학교
+ > * Java (기초)
+ > * 안드로이드 포팅 (기초)
 
 ### 중학교
  > * Java, C
  > * Web
  >   - HTML/ CSS
 
-### 초등학교
- > * Java (기초)
- > * 안드로이드 포팅 (기초)
+### 고등학교
+ > * Kotlin/ Python/ Ruby
+ > * Web
+ >   - JavaScript/ PHP
+ 
+### 대학교
+ > * Web
+ >   - JSP, MySQL
 
 ## 개인 프로젝트
 ### 강고 포켓
