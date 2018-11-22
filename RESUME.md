@@ -171,7 +171,7 @@
 >   - Android: ~~<https://play.google.com/store/apps/details?id=xyz.ridsoft.oledcalibration>~~ (지원 보류)
 
 ###### Screenshots
-![](/res/wc/wc_01.png)![](/res/wc/wc_02.png)![](/res/wc/wc_03.png)![](/res/wc/wc_04.png)
+![](/res/oled_cal/oled_01.png)![](/res/oled_cal/oled_02.png)![](/res/oled_cal/oled_03.png)![](/res/oled_cal/oled_04.png)
 
 ---
 
@@ -192,7 +192,7 @@
 >   - iOS: <https://itunes.apple.com/us/app/워드-카운터/id1436002897?mt=8>
 
 ###### Screenshots
-[TODO: insert screenshots]
+![](/res/wc/wc_01.png)![](/res/wc/wc_02.png)![](/res/wc/wc_03.png)![](/res/wc/wc_04.png)
 
 ---
 ### 암호 메시지
