@@ -106,7 +106,7 @@
 >   - iOS: <https://itunes.apple.com/kr/app/강고-포켓/id1384350202?mt=8>
 
 ###### Screenshots (Android)
-[TODO: insert screenshots]
+![](/res/kp/screenshot_kp_01.jpg)![](/res/kp/screenshot_kp_02.jpg)![](/res/kp/screenshot_kp_03.jpg)![](/res/kp/screenshot_kp_04.jpg)
 
 ---
 
