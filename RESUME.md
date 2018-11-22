@@ -100,7 +100,7 @@
 
 ### 춘여 피플
 
-<img src="/res/kp/kp_app_icon.png" width="100px" height="100px">
+<img src="/res/cghs.png" width="100px" height="100px">
 
 > 춘여 피플은 춘천여자고등학교 학생을 위해 제작된 애플리케이션으로, 시간표, 급식정보, 공지사항 등 학교 생활에 필수적인 정보를 제공하고 있습니다.
 > 
@@ -123,7 +123,7 @@
 
 ### OLED 캘리브레이터
 
-<img src="/res/kp/kp_app_icon.png" width="100px" height="100px">
+<img src="/res/oled_cal.png" width="100px" height="100px">
 
 > OLED 스마트폰을 사용중이십니까? 화면 색감이 정확하지 않은가요? OLED 캘리브레이터는 화면 위에 색상 필터를 씌워서 디스플레이의 색감을 조정해 드립니다.
 > 
@@ -144,7 +144,7 @@
 
 ### 워드 카운터
 
-<img src="/res/kp/kp_app_icon.png" width="100px" height="100px">
+<img src="/res/wc.png" width="100px" height="100px">
 
 > 글자 수가 창작력을 방해하신다면, 워드 카운터를 이용해 보십시오. 간단하고 빠르게 글자 수를 확인하실 수 있습니다.
 > 
@@ -157,6 +157,25 @@
 > * 서버: **None**
 > * 스토어 링크
 >   - iOS: <https://itunes.apple.com/us/app/워드-카운터/id1436002897?mt=8>
+
+###### Screenshots
+[TODO: insert screenshots]
+
+---
+### 암호 메시지
+
+<img src="/res/sec_msg.png" width="100px" height="100px">
+
+> 암호 메시지는 간단한 암호화/ 복호화 툴입니다. 같은 비밀번호를 알고 있는 사람들이 짧은 메시지를 비밀스럽게 보낼 때 이용하실 수 있습니다.
+> 
+> ###### 개발사양
+> * 플랫폼: Web
+> * 담당 역할
+>   - 웹 앱 개발 및 유지보수
+> * 개발 기술
+>   - HTML, CSS, JavaScript, Node.JS
+> * 서버: **None**
+> * 스토어 링크: **None**
 
 ###### Screenshots
 [TODO: insert screenshots]
