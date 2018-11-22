@@ -59,7 +59,7 @@ Android, iOS, Web Developer
 
 ### 한컷에 캡처
 
-<img src="/res/kp/kp_app_icon.png" width="100px" height="100px">
+<img src="/res/cis.png" width="100px" height="100px">
 
 > 여러 장의 스크린샷을 한 장으로 간단하게 합성해주는 애플리케이션입니다.
 
