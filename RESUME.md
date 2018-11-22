@@ -126,9 +126,6 @@
 > * 스토어 링크
 >   - Android: ~~https://play.google.com/store/apps/details?id=com.ridsoft.internetcapture~~ (지원 종료)
 
-###### Screenshots
-[TODO: insert screenshots]
-
 ---
 
 ### 춘여 피플
@@ -150,7 +147,7 @@
 >   - Android: <https://play.google.com/store/apps/details?id=com.ridsoft.cghs>
 
 ###### Screenshots
-[TODO: insert screenshots]
+![](/res/cghs/cghs_01.png)![](/res/cghs/cghs_02.png)![](/res/cghs/cghs_03.png)
 
 ---
 
