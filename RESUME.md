@@ -171,7 +171,7 @@
 >   - Android: ~~<https://play.google.com/store/apps/details?id=xyz.ridsoft.oledcalibration>~~ (지원 보류)
 
 ###### Screenshots
-[TODO: insert screenshots]
+![](/res/wc/wc_01.png)![](/res/wc/wc_02.png)![](/res/wc/wc_03.png)![](/res/wc/wc_04.png)
 
 ---
 
