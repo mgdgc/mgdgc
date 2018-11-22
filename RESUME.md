@@ -158,7 +158,7 @@
 
 <img src="/res/oled_cal.png" width="100px" height="100px">
 
-> OLED 스마트폰을 사용중이십니까? 화면 색감이 정확하지 않은가요? OLED 캘리브레이터는 화면 위에 색상 필터를 씌워서 디스플레이의 색감을 조정해 드립니다.
+> OLED 캘리브레이터는 간혹 나타나는 OLED의 색상 불균일 현상을 화면 위에 색상 필터를 씌워서 디스플레이의 조정해 드립니다.
 > 
 > ###### 개발사양
 > * 플랫폼: Android
@@ -179,7 +179,7 @@
 
 <img src="/res/wc.png" width="100px" height="100px">
 
-> 글자 수가 창작력을 방해하신다면, 워드 카운터를 이용해 보십시오. 간단하고 빠르게 글자 수를 확인하실 수 있습니다.
+>  간단하고 빠르게 글자 수를 확인할 수 있는 워드 카운터입니다. 공백 옵션 설정이나 저장/ 불러오기와 같은 편의 기능을 제공합니다.
 > 
 > ###### 개발사양
 > * 플랫폼: iOS
@@ -211,6 +211,6 @@
 > * 스토어 링크: **None**
 
 ###### Screenshots
-[TODO: insert screenshots]
+![](/res/sec_msg/sec_04.png)![](/res/sec_msg/sec_01.png)![](/res/sec_msg/sec_02.png)![](/res/sec_msg/sec_03.png)
 
 ---
