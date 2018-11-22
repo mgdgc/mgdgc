@@ -1,8 +1,8 @@
 # 최명근 | Choi Myeong-geun
-  [TODO: 한줄소개]
+  > 빠르게 적응하고 함께 성장하는 개발자
 
 ## 한눈에 보기
-  [TODO: 이력서 이미지]
+  ![Cover Image](/res/cover.png)
 
 ## 상세 이력서
 [이력서 바로가기](/RESUME.md)
