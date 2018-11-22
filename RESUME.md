@@ -28,19 +28,36 @@
 <br><br>
 
 ## 경력
-### 2012 ~ Now
-  > <img src="/res/ridsoft_small.png" width="120px"></img>
-  > * [RiDsoft](http://ridsoft.xyz)
-  
-### 2014 ~ 2015
-  > * 대룡중학교 코딩동아리 DAC
+  * [RiDsoft](http://ridsoft.xyz) (2012 ~ Now)
+  * 대룡중학교 코딩동아리 DAC (2014 ~ 2015)
+  * 강원고등학교 코딩동아리 Apphabet (2015 ~ 2018)
+  * 한림대학교 소프트웨어융합대학 재학중 (2018 ~ Now)
+  * 한림대학교 중앙동아리 CHAOS (2018 ~ Now)
 
-### 2015 ~ 2018
-  > * 강원고등학교 코딩동아리 Apphabet
+<br><br>
 
-### 2018 ~ Now
-  > * 한림대학교 소프트웨어융합대학 재학중
-  > * 한림대학교 중앙동아리 CHAOS
+## 보유 기술
+  > * Android
+  >   - Kotlin
+  >   - Java (~ 10)
+  >   - Gradle, Maven
+  > 
+  > * iOS
+  >   - Swift (~ 4.2)
+  >   - Storyboard, CocoaPods, etc...
+  > 
+  > * Web
+  >   - HTML5, CSS3, JavaScript
+  >   - PHP
+  > 
+  > * Server
+  >   - JSP
+  >   - Node.JS
+  >   - MySQL
+  > 
+  > * Others
+  >   - C, C++
+  >   - VCS: Bitbucket을 주로 사용합니다.
 
 <br><br>
 
