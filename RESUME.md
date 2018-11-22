@@ -1,6 +1,6 @@
 최명근 | Choi Myeong-geun
 ========================
-  ![이력서 한 눈에 보기](/res/cover.png)
+  ![이력서 한 눈에 보기](/res/cover_simple.png)
   
   <img src="/res/dev.png" width="260px"></img>
   #### "빠르게 적응하고 함께 성장하는 개발자"
