@@ -108,6 +108,9 @@
 ###### Screenshots (Android)
 ![](/res/kp/kp_01.jpg)![](/res/kp/kp_02.jpg)![](/res/kp/kp_03.jpg)![](/res/kp/kp_04.jpg)
 
+###### Screenshots (iOS)
+![](/res/kp/ios_kp_01.png)![](/res/kp/ios_kp_02.png)![](/res/kp/ios_kp_03.png)![](/res/kp/ios_kp_04.png)
+
 ---
 
 ### 한컷에 캡처
