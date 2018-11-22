@@ -1,36 +1,46 @@
 최명근 | Choi Myeong-geun
 ========================
-Android, iOS, Web Developer
-
-<img src="/res/ridsoft_small.png" width="100px" height="100px">
+  > Android, iOS, Web Developer<br>빠르게 적응하고 함께 성장하는 개발자
+  
+  <img src="/res/profile.jpg" width="120px"></img>
+  
+  * email: [soc06212@gmail.com](mailto:soc06212@gmail.com)
+  * GitHub: <https://github.com/soc06212/>
+  * Telegram: <https://t.me/soc06212>
+  * Google Play: [개발자 페이지](https://play.google.com/store/apps/dev?id=8395994437925298218)
+  * App Store: [개발자 페이지](https://itunes.apple.com/kr/developer/myeong-geun-choi/id1384350201?mt=8)
 
 ## 경력
 ### 2012 ~ Now
+  <img src="/res/ridsoft_small.png" width="120px"></img>
   * [RiDsoft](http://ridsoft.xyz)
+  
+### 2014 ~ 2015
+  * 대룡중학교 코딩동아리 DAC
+
+### 2015 ~ 2018
+  * 강원고등학교 코딩동아리 Apphabet
 
 ### 2018 ~ Now
   * 한림대학교 소프트웨어융합대학 재학중
+  * 한림대학교 중앙동아리 CHAOS
 
 
 ## 기술 타임라인
 ### 대학교
- * MySQL
- * JSP
+ * Web: JSP, MySQL
 
 ### 고등학교
- * Kotlin
- * JavaScript
- * Python/ Ruby
- * PHP
+ * Kotlin/ Python/ Ruby
+ * Web: JavaScript/ PHP
 
 ### 중학교
- * Java
- * C
- * HTML/ CSS
+ * Java, C
+ * Web: HTML/ CSS
 
 ### 초등학교
  * Java (기초)
- * 안드로이드 포팅
+ * 안드로이드 포팅 (기초)
 
 ## 개인 프로젝트
 ### 강고 포켓
