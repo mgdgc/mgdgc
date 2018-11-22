@@ -1,18 +1,28 @@
 최명근 | Choi Myeong-geun
 ========================
   ![이력서 한 눈에 보기](/res/cover_simple.png)
-  
+
+## 소개
   <img src="/res/dev.png" width="260px"></img>
   #### "빠르게 적응하고 함께 성장하는 개발자"
   
   
-  > <img src="/res/profile.jpg" width="120px"></img>
+  <img src="/res/profile.jpg" width="120px"></img>
   
   * email: [soc06212@gmail.com](mailto:soc06212@gmail.com)
   * GitHub: <https://github.com/soc06212/>
   * Telegram: <https://t.me/soc06212>
   * Google Play: [개발자 페이지](https://play.google.com/store/apps/dev?id=8395994437925298218)
   * App Store: [개발자 페이지](https://itunes.apple.com/kr/developer/myeong-geun-choi/id1384350201?mt=8)
+  
+  > 초등학교 때부터 프로그래밍에 관심이 있었습니다. 
+  > 하지만 당시엔 어떻게 해라 알려주는 사람도 없었고, 검색을 하려고 해도 어떻게 검색하는지도 몰라 무작정 따라하고, 코드를 따라가 보고, 그림을 그려도 보았습니다.
+  > <pre>
+  >   "우리 모두는 자신의 힘으로 발견한 내용을 가장 쉽게 익힌다."
+  >   - 도널드 커누스 -
+  > </pre>
+  > 그렇게 익힌 안드로이드는 제 주특기입니다. 또한 이 경험을 바탕으로 iOS와 웹 개발을 공부했습니다.
+  
 
 <br><br>
 
