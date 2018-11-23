@@ -1,6 +1,6 @@
 최명근 | Choi Myeong-geun
 ========================
-  ![이력서 한 눈에 보기](/res/cover_simple.png)
+  ![이력서 한 눈에 보기](/res/cover.png)
 
 ## 소개
   <img src="/res/dev.png" width="260px"></img>
@@ -17,10 +17,6 @@
   
   > 초등학교 때부터 프로그래밍에 관심이 있었습니다. 
   > 하지만 당시엔 어떻게 해라 알려주는 사람도 없었고, 검색을 하려고 해도 어떻게 검색하는지도 몰라 무작정 따라하고, 코드를 따라가 보고, 그림을 그려도 보았습니다.
-  > <pre>
-  >   "우리 모두는 자신의 힘으로 발견한 내용을 가장 쉽게 익힌다."
-  >   - 도널드 커누스 -
-  > </pre>
   > 그렇게 익힌 안드로이드는 제 주특기입니다. 또한 이 경험을 바탕으로 iOS와 웹 개발을 공부했습니다.
   > <br>새로운 것을 배우기 좋아하고, 빠르게 적응할 수 있는 개발자입니다.
   
@@ -195,6 +191,7 @@
 ![](/res/wc/wc_01.png)![](/res/wc/wc_02.png)![](/res/wc/wc_03.png)![](/res/wc/wc_04.png)
 
 ---
+
 ### 암호 메시지
 
 <img src="/res/sec_msg.png" width="100px" height="100px">
@@ -214,3 +211,31 @@
 ![](/res/sec_msg/sec_04.png)![](/res/sec_msg/sec_01.png)![](/res/sec_msg/sec_02.png)![](/res/sec_msg/sec_03.png)
 
 ---
+
+### 카페인스쿨
+
+<img src="/res/ic_cafe_in_school.png" width="100px" height="100px">
+
+> 교내 카페의 위치, 메뉴, 영업시간 등 세부 정보를 확인할 수 있는 서비스입니다.
+> 
+> ###### 개발사양
+> * 플랫폼: Android
+> * 담당 역할
+>   - Android 앱 개발 및 유지보수
+>   - Server 스크립트 작업
+> * 개발 기술
+>   - Android: **Kotlin**
+>   - Server: SpreadSheet script
+> * 서버: Google SpreadSheet
+> * 스토어 링크: **None**
+
+###### Screenshots
+![](/res/cafe_in_school/cafe_in_school_01.png)![](/res/cafe_in_school/cafe_in_school_02.png)![](/res/cafe_in_school/cafe_in_school_03.png)![](/res/cafe_in_school/cafe_in_school_04.png)
+
+
+## 마무리
+
+  > <pre>
+  >   "우리 모두는 자신의 힘으로 발견한 내용을 가장 쉽게 익힌다."
+  >   - 도널드 커누스 -
+  > </pre>
