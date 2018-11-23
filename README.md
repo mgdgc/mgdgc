@@ -36,6 +36,29 @@
 
 <br><br>
 
+## 기술 타임라인
+### 초등학교
+ > * Java (기초)
+ > * 안드로이드 포팅 (기초)
+
+### 중학교
+ > * Java, C
+ > * Web
+ >   - HTML/ CSS
+
+### 고등학교
+ > * Kotlin/ Python/ Ruby
+ > * Swift
+ > * Web
+ >   - JavaScript/ PHP
+ >   - AWS Elastic Compute Cloud (EC2)
+ 
+### 대학교
+ > * Web
+ >   - JSP, MySQL
+
+<br><br>
+
 ## 보유 기술
   > * Android
   >   - Kotlin
@@ -58,29 +81,6 @@
   > * Others
   >   - C, C++
   >   - VCS: Bitbucket을 주로 사용합니다.
-
-<br><br>
-
-## 기술 타임라인
-### 초등학교
- > * Java (기초)
- > * 안드로이드 포팅 (기초)
-
-### 중학교
- > * Java, C
- > * Web
- >   - HTML/ CSS
-
-### 고등학교
- > * Kotlin/ Python/ Ruby
- > * Swift
- > * Web
- >   - JavaScript/ PHP
- >   - AWS Elastic Compute Cloud (EC2)
- 
-### 대학교
- > * Web
- >   - JSP, MySQL
 
 <br><br>
 
