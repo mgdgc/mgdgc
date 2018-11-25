@@ -9,6 +9,7 @@
   
   <img src="/res/profile.jpg" width="120px"></img>
   
+  * RiDsoft: <http://ridsoft.xyz>
   * email: [soc06212@gmail.com](mailto:soc06212@gmail.com)
   * GitHub: <https://github.com/soc06212/>
   * Telegram: <https://t.me/soc06212>
