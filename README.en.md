@@ -1,6 +1,6 @@
 Choi Myeong-geun
 ========================
-  ![Glance resume](/res/cover_simple.png)
+  ![Glance resume](/res/cover_eng.png)
 
 ## Introduce
   <img src="/res/dev.png" width="260px"></img>
@@ -24,7 +24,7 @@ Choi Myeong-geun
 
 <br><br>
 
-## 경력
+## Career
   * [RiDsoft](http://ridsoft.xyz) (2012 ~ Now)
   * Coding club of Daeryong Junior High School, DAC (2014 ~ 2015)
   * Coding club of Kangwon High School, Apphabet (2015 ~ 2018)
@@ -93,12 +93,12 @@ Choi Myeong-geun
 > * Role
 >   - Android, iOS app development/ maintenance
 >   - Server data management
-> * Skill
+> * Skill Used
 >   - Android: (~ 2017) Java -> (2017 ~ Now) **Kotlin**
 >   - iOS: **Swift**
 >   - Server: SpreadSheet script
-> * 서버: Google SpreadSheet
-> * 스토어 링크
+> * Server: Google SpreadSheet
+> * Store Link
 >   - Android: <https://play.google.com/store/apps/details?id=com.RiDsoft.kangwonhighschool>
 >   - iOS: <https://itunes.apple.com/kr/app/강고-포켓/id1384350202?mt=8>
 
@@ -110,40 +110,40 @@ Choi Myeong-geun
 
 ---
 
-### 한컷에 캡처
+### Capture in School
 
 <img src="/res/cis.png" width="100px" height="100px">
 
-> 여러 장의 스크린샷을 한 장으로 간단하게 합성해주는 애플리케이션입니다.
+> Combines multiple screenshots in one.
 > 
-> ###### 개발사양
-> * 플랫폼: Android
-> * 담당 역할
->   - Android 앱 개발/ 유지보수
-> * 개발 기술
+> ###### Development Specifications
+> * Platform: Android
+> * Role
+>   - Android app development/ maintenance
+> * Skill Used
 >   - Android: **Java**
-> * 서버: **None**
-> * 스토어 링크
->   - Android: ~~https://play.google.com/store/apps/details?id=com.ridsoft.internetcapture~~ (지원 종료)
+> * Server: **None**
+> * Store Link
+>   - Android: ~~https://play.google.com/store/apps/details?id=com.ridsoft.internetcapture~~ (No more supported)
 
 ---
 
-### 춘여 피플
+### CGHS People
 
 <img src="/res/cghs.png" width="100px" height="100px">
 
-> 춘여 피플은 춘천여자고등학교 학생을 위해 제작된 애플리케이션으로, 시간표, 급식정보, 공지사항 등 학교 생활에 필수적인 정보를 제공하고 있습니다.
+> CGHS People is an application designed for Chuncheon Girls High School Students. It provides essential information such as schedule table, meal info, notifications, and etc.
 > 
-> ###### 개발사양
-> * 플랫폼: Android
-> * 담당 역할
->   - Android 앱 개발/ 유지보수
->   - Server 데이터 관리
-> * 개발 기술
+> ###### Development Specifications
+> * Platform: Android
+> * Role
+>   - Android app development/ maintenance
+>   - Server data management
+> * Skill Used
 >   - Android: **Java**
 >   - Server: SpreadSheet script
-> * 서버: Google SpreadSheet
-> * 스토어 링크
+> * Server: Google SpreadSheet
+> * Store Link
 >   - Android: <https://play.google.com/store/apps/details?id=com.ridsoft.cghs>
 
 ###### Screenshots
@@ -151,63 +151,84 @@ Choi Myeong-geun
 
 ---
 
-### OLED 캘리브레이터
+### OLED Calibrator
 
 <img src="/res/oled_cal.png" width="100px" height="100px">
 
-> OLED 캘리브레이터는 간혹 나타나는 OLED의 색상 불균일 현상을 화면 위에 색상 필터를 씌워서 디스플레이의 조정해 드립니다.
+> OLED Calibrator adjusts color distortion on OLED screen by masking filter on it.
 > 
-> ###### 개발사양
-> * 플랫폼: Android
-> * 담당 역할
->   - Android 앱 개발/ 유지보수
-> * 개발 기술
+> ###### Development Specifications
+> * Platform: Android
+> * Role
+>   - Android app development/ maintenance
+> * Skill Used
 >   - Android: (~ 2017) Java -> (2017 ~ Now) **Kotlin**
-> * 서버: **None**
-> * 스토어 링크
->   - Android: ~~<https://play.google.com/store/apps/details?id=xyz.ridsoft.oledcalibration>~~ (지원 보류)
+> * Server: **None**
+> * Store Link
+>   - Android: ~~<https://play.google.com/store/apps/details?id=xyz.ridsoft.oledcalibration>~~ (Support delayed)
 
 ###### Screenshots
 ![](/res/oled_cal/oled_01.png)![](/res/oled_cal/oled_02.png)![](/res/oled_cal/oled_03.png)![](/res/oled_cal/oled_04.png)
 
 ---
 
-### 워드 카운터
+### Writing Counter
 
 <img src="/res/wc.png" width="100px" height="100px">
 
->  간단하고 빠르게 글자 수를 확인할 수 있는 워드 카운터입니다. 공백 옵션 설정이나 저장/ 불러오기와 같은 편의 기능을 제공합니다.
+> With Writing Counter, you can check the number of characters easily and quickly. It provides convenience functions such as blank options setting or saving / loading.
 > 
-> ###### 개발사양
-> * 플랫폼: iOS
-> * 담당 역할
->   - iOS 앱 개발/ 유지보수
-> * 개발 기술
+> ###### Development Specifications
+> * Platform: iOS
+> * Role
+>   - iOS app development/ maintenance
+> * Skill Used
 >   - iOS: **Swift**
-> * 서버: **None**
-> * 스토어 링크
+> * Server: **None**
+> * Store Link
 >   - iOS: <https://itunes.apple.com/us/app/워드-카운터/id1436002897?mt=8>
 
 ###### Screenshots
 ![](/res/wc/wc_01.png)![](/res/wc/wc_02.png)![](/res/wc/wc_03.png)![](/res/wc/wc_04.png)
 
 ---
-### 암호 메시지
+### Encrypt Message
 
 <img src="/res/sec_msg.png" width="100px" height="100px">
 
-> 암호 메시지는 간단한 암호화/ 복호화 툴입니다. 같은 비밀번호를 알고 있는 사람들이 짧은 메시지를 비밀스럽게 보낼 때 이용하실 수 있습니다.
+> Encrypt Message can be used by people who know the same password to secretly send short messages.
 > 
-> ###### 개발사양
-> * 플랫폼: Web
-> * 담당 역할
->   - 웹 앱 개발 및 유지보수
-> * 개발 기술
+> ###### Development Specifications
+> * Platform: Web
+> * Role
+>   - Web app development/ maintenance
+> * Skill Used
 >   - HTML, CSS, JavaScript, Node.JS
-> * 서버: **None**
-> * 스토어 링크: **None**
+> * Server: **None**
+> * Store Link: **None**
 
 ###### Screenshots
 ![](/res/sec_msg/sec_04.png)![](/res/sec_msg/sec_01.png)![](/res/sec_msg/sec_02.png)![](/res/sec_msg/sec_03.png)
 
 ---
+
+### Cafe in School
+
+<img src="/res/ic_cafe_in_school.png" width="100px" height="100px">
+
+> Cafe in School is an application that
+> 
+> ###### Development Specifications
+> * Platform: Android
+> * Role
+>   - Android app development/ maintenance
+>   - Server script work
+> * Skill Used
+>   - Android: **Kotlin**
+>   - Server: SpreadSheet script
+> * Server: Google SpreadSheet
+> * Store Link: **None**
+
+###### Screenshots
+![](/res/cafe_in_school/cafe_in_school_01.png)![](/res/cafe_in_school/cafe_in_school_02.png)![](/res/cafe_in_school/cafe_in_school_03.png)![](/res/cafe_in_school/cafe_in_school_04.png)
+
