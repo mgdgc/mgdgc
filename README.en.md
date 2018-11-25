@@ -9,34 +9,54 @@ Choi Myeong-geun
   
   <img src="/res/profile.jpg" width="120px"></img>
   
+  * RiDsoft: <http://ridsoft.xyz>
   * email: [soc06212@gmail.com](mailto:soc06212@gmail.com)
   * GitHub: <https://github.com/soc06212/>
   * Telegram: <https://t.me/soc06212>
   * Google Play: [Developer Page](https://play.google.com/store/apps/dev?id=8395994437925298218)
   * App Store: [Developer Page](https://itunes.apple.com/kr/developer/myeong-geun-choi/id1384350201?mt=8)
   
-  > 초등학교 때부터 프로그래밍에 관심이 있었습니다. 
-  > 하지만 당시엔 어떻게 해라 알려주는 사람도 없었고, 검색을 하려고 해도 어떻게 검색하는지도 몰라 무작정 따라하고, 코드를 따라가 보고, 그림을 그려도 보았습니다.
-  > <pre>
-  >   "우리 모두는 자신의 힘으로 발견한 내용을 가장 쉽게 익힌다."
-  >   - 도널드 커누스 -
-  > </pre>
-  > 그렇게 익힌 안드로이드는 제 주특기입니다. 또한 이 경험을 바탕으로 iOS와 웹 개발을 공부했습니다.
-  > <br>새로운 것을 배우기 좋아하고, 빠르게 적응할 수 있는 개발자입니다.
+  > I have been a student interested in programming since elementary school.
+  > <br>But at the time, no one told me how to do it, and I even did not know how to search on the internet for it. So I recklessly followed the online tutorial, followed the code, and even drew diagrams.
+  > <br>The Android that I have studied like that has become my specialty. Based on that experience, I also participated in various projects on iOS and web development.
+  > <br>I am a developer who likes to learn new things and can adapt quickly.
   
 
 <br><br>
 
 ## 경력
   * [RiDsoft](http://ridsoft.xyz) (2012 ~ Now)
-  * 대룡중학교 코딩동아리 DAC (2014 ~ 2015)
-  * 강원고등학교 코딩동아리 Apphabet (2015 ~ 2018)
-  * 한림대학교 소프트웨어융합대학 재학중 (2018 ~ Now)
-  * 한림대학교 중앙동아리 CHAOS (2018 ~ Now)
+  * Coding club of Daeryong Junior High School, DAC (2014 ~ 2015)
+  * Coding club of Kangwon High School, Apphabet (2015 ~ 2018)
+  * School of Software, Hallym University (2018 ~ Now)
+  * Coding club of Hallym University, CHAOS (2018 ~ Now)
 
 <br><br>
 
-## 보유 기술
+## Skill Timeline
+### Elementary School
+ > * Java (Basic)
+ > * Android porting (Basic)
+
+### Junior High School
+ > * Java, C
+ > * Web
+ >   - HTML/ CSS
+
+### High School
+ > * Kotlin/ Python/ Ruby
+ > * Swift
+ > * Web
+ >   - JavaScript/ PHP
+ >   - AWS Elastic Compute Cloud (EC2)
+ 
+### University
+ > * Web
+ >   - JSP, MySQL
+
+<br><br>
+
+## Skills
   > * Android
   >   - Kotlin
   >   - Java (~ 10)
@@ -57,46 +77,23 @@ Choi Myeong-geun
   > 
   > * Others
   >   - C, C++
-  >   - VCS: Bitbucket을 주로 사용합니다.
+  >   - VCS: Bitbucket
 
 <br><br>
 
-## 기술 타임라인
-### 초등학교
- > * Java (기초)
- > * 안드로이드 포팅 (기초)
-
-### 중학교
- > * Java, C
- > * Web
- >   - HTML/ CSS
-
-### 고등학교
- > * Kotlin/ Python/ Ruby
- > * Swift
- > * Web
- >   - JavaScript/ PHP
- >   - AWS Elastic Compute Cloud (EC2)
- 
-### 대학교
- > * Web
- >   - JSP, MySQL
-
-<br><br>
-
-## 개인 프로젝트
-### 강고 포켓
+## Personal Project
+### Kanggo Pocket
 
 <img src="/res/kp/kp_app_icon.png" width="100px" height="100px">
 
-> 강고 포켓은 강원고등학교 학생을 위해 제작된 애플리케이션으로, 시간표, 급식정보, 공지사항 등 학교 생활에 필수적인 정보를 제공하고 있습니다.
+> Kanggo Pocket is an application designed for Kangwon High School Students. It provides essential information such as schedule table, meal info, notifications, and etc.
 > 
-> ###### 개발사양
-> * 플랫폼: Android, iOS
-> * 담당 역할
->   - Android, iOS 앱 개발/ 유지보수
->   - Server 데이터 관리
-> * 개발 기술
+> ###### Development Specifications
+> * Platform: Android, iOS
+> * Role
+>   - Android, iOS app development/ maintenance
+>   - Server data management
+> * Skill
 >   - Android: (~ 2017) Java -> (2017 ~ Now) **Kotlin**
 >   - iOS: **Swift**
 >   - Server: SpreadSheet script
