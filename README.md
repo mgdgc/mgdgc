@@ -210,7 +210,7 @@
 > * 개발 기술
 >   - HTML, CSS, JavaScript, Node.JS
 > * 서버: **None**
-> * 스토어 링크: **None**
+> * GitHub 링크: <https://github.com/soc06212/EncryptMessage>
 
 ###### Screenshots
 ![](/res/sec_msg/sec_04.png)![](/res/sec_msg/sec_01.png)![](/res/sec_msg/sec_02.png)![](/res/sec_msg/sec_03.png)
