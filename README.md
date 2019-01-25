@@ -256,10 +256,10 @@
 
 ###### Screenshots
 <p>
-  <img src="res/cow_snow/screenshot_01.png" alt="Welcome page" width="100px">
-  <img src="res/cow_snow/screenshot_02.png" alt="Main page" width="100px">
-  <img src="res/cow_snow/screenshot_03.png" alt="View page" width="100px">
-  <img src="res/cow_snow/screenshot_04.png" alt="Comment" width="100px">
+  <img src="res/cow_snow/screenshot_01.png" alt="Welcome page" height="300px">
+  <img src="res/cow_snow/screenshot_02.png" alt="Main page" height="300px">
+  <img src="res/cow_snow/screenshot_03.png" alt="View page" height="300px">
+  <img src="res/cow_snow/screenshot_04.png" alt="Comment" height="300px">
 </p>
 
 ---
