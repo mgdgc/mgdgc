@@ -236,3 +236,30 @@
 
 ###### Screenshots
 ![](/res/cafe_in_school/cafe_in_school_01.png)![](/res/cafe_in_school/cafe_in_school_02.png)![](/res/cafe_in_school/cafe_in_school_03.png)![](/res/cafe_in_school/cafe_in_school_04.png)
+
+---
+
+### 암호 메시지
+
+<img src="/res/cow_snow.png" width="100px" height="100px">
+
+> 누구나 저마다의 소설 같은 이야기를 품고 살아갑니다. 나의 인생에 있어서 나는 가슴 아픈 멜로, 소소한 일상, 박진감 넘치는 액션, 꿈같은 SF 등, 한 편의 소설 속 주인공이 됩니다. CowSnow는 멋진 이야기를 품고 있는 사람이라면 누구나 나의 이야기를 펼쳐 나갈 수 있도록 도와줍니다. 컨텐츠를 소비하는 것을 넘어 생산할 수 있도록, 모두가 베스트 셀러 작가가 되는 세상, CowSnow입니다.
+> 
+> ###### 개발사양
+> * 플랫폼: Web
+> * 담당 역할
+>   - 웹 앱 개발 및 유지보수
+> * 개발 기술
+>   - JSP, HTML, CSS, JavaScript, MySQL, Maven
+> * 서버: Local
+> * GitHub 링크: <https://github.com/soc06212/CowSnow>
+
+###### Screenshots
+<p>
+  <img src="res/cow_snow/screenshot_01.png" alt="Welcome page" width="100px">
+  <img src="res/cow_snow/screenshot_02.png" alt="Main page" width="100px">
+  <img src="res/cow_snow/screenshot_03.png" alt="View page" width="100px">
+  <img src="res/cow_snow/screenshot_04.png" alt="Comment" width="100px">
+</p>
+
+---
