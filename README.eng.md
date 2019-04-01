@@ -100,7 +100,10 @@ Choi Myeong-geun
 > * Server: Google SpreadSheet
 > * Store Link
 >   - Android: <https://play.google.com/store/apps/details?id=com.RiDsoft.kangwonhighschool>
->   - iOS: <https://itunes.apple.com/kr/app/강고-포켓/id1384350202?mt=8>
+>   - iOS: ~~<https://itunes.apple.com/kr/app/강고-포켓/id1384350202?mt=8>~~ (No more supported)
+> * GitHub
+>   - Android: <https://github.com/soc06212/Kanggo-Pocket>
+>   - iOS: (Soon)
 
 ###### Screenshots (Android)
 ![](/res/kp/kp_01.jpg)![](/res/kp/kp_02.jpg)![](/res/kp/kp_03.jpg)![](/res/kp/kp_04.jpg)
