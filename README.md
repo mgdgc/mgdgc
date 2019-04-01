@@ -104,7 +104,10 @@
 > * 서버: Google SpreadSheet
 > * 스토어 링크
 >   - Android: <https://play.google.com/store/apps/details?id=com.RiDsoft.kangwonhighschool>
->   - iOS: <https://itunes.apple.com/kr/app/강고-포켓/id1384350202?mt=8>
+>   - iOS: ~~<https://itunes.apple.com/kr/app/강고-포켓/id1384350202?mt=8>~~ (지원 종료)
+> * GitHub 링크
+>   - Android: <https://github.com/soc06212/Kanggo-Pocket>
+>   - iOS: (예정)
 
 ###### Screenshots (Android)
 ![](/res/kp/kp_01.jpg)![](/res/kp/kp_02.jpg)![](/res/kp/kp_03.jpg)![](/res/kp/kp_04.jpg)
