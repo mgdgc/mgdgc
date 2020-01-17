@@ -14,7 +14,7 @@
   * GitHub: <https://github.com/soc06212/>
   * Telegram: <https://t.me/soc06212>
   * Google Play: [개발자 페이지](https://play.google.com/store/apps/dev?id=8395994437925298218)
-  * App Store: [개발자 페이지](https://itunes.apple.com/kr/developer/myeong-geun-choi/id1384350201?mt=8)
+  * App Store: ~~[개발자 페이지](https://itunes.apple.com/kr/developer/myeong-geun-choi/id1384350201?mt=8)~~ (라이센스 만료)
   
   > <pre>
   >   "우리 모두는 자신의 힘으로 발견한 내용을 가장 쉽게 익힌다."
