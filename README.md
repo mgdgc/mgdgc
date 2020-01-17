@@ -33,7 +33,7 @@
   * 대룡중학교 코딩동아리 DAC (2014 ~ 2015)
   * 강원고등학교 코딩동아리 Apphabet (2015 ~ 2018)
   * 한림대학교 소프트웨어융합대학 재학중 (2018 ~ Now)
-  * 한림대학교 중앙동아리 CHAOS (2018 ~ Now)
+  * 한림대학교 중앙동아리 CHAOS (2018 ~ 2019)
 
 <br><br>
 
@@ -107,7 +107,7 @@
 >   - iOS: ~~<https://itunes.apple.com/kr/app/강고-포켓/id1384350202?mt=8>~~ (지원 종료)
 > * GitHub 링크
 >   - Android: <https://github.com/soc06212/Kanggo-Pocket>
->   - iOS: (예정)
+>   - iOS: ~~(예정)~~ (지원 종료)
 
 ###### Screenshots (Android)
 ![](/res/kp/kp_01.jpg)![](/res/kp/kp_02.jpg)![](/res/kp/kp_03.jpg)![](/res/kp/kp_04.jpg)
@@ -131,7 +131,7 @@
 >   - Android: **Java**
 > * 서버: **None**
 > * 스토어 링크
->   - Android: ~~https://play.google.com/store/apps/details?id=com.ridsoft.internetcapture~~ (지원 종료)
+>   - Android: ~~https://play.google.com/store/apps/details?id=com.ridsoft.internetcapture~~ (개발 중단)
 
 ---
 
@@ -151,7 +151,7 @@
 >   - Server: SpreadSheet script
 > * 서버: Google SpreadSheet
 > * 스토어 링크
->   - Android: <https://play.google.com/store/apps/details?id=com.ridsoft.cghs>
+>   - Android: <https://play.google.com/store/apps/details?id=com.ridsoft.cghs> (지원 종료)
 
 ###### Screenshots
 ![](/res/cghs/cghs_01.png)![](/res/cghs/cghs_02.png)![](/res/cghs/cghs_03.png)
