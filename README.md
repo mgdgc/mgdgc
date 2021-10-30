@@ -22,21 +22,27 @@
 </p>
 
 
+<br>
+
+## Github Status
 <br><br>
-## Links
+<a href="https://github.com/soc06212">
+    <img src="https://github-readme-stats.vercel.app/api?username=soc06212&count_private=true&show_icons=true"/>
+  </a>
+  <br><br>
+  <a href="https://github.com/soc06212">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soc06212" />
+  </a>
+
+
+<br><br>
+## 링크
 * RiDsoft: <http://ridsoft.xyz>
 * email: [soc06212@gmail.com](mailto:soc06212@gmail.com)
 * GitHub: <https://github.com/soc06212/>
 * Google Play: [개발자 페이지](https://play.google.com/store/apps/dev?id=8395994437925298218)
-* App Store: ~~[개발자 페이지](https://itunes.apple.com/kr/developer
+* App Store: ~~[개발자 페이지](https://itunes.apple.com/kr/developer)~~
   
-<br>
-<p>
-  <a href="https://github.com/soc06212">
-    <img src="https://github-readme-stats.vercel.app/api?username=soc06212&count_private=true&show_icons=true"/>
-  </a>
-</p>
-
 
 <br><br>
 
@@ -56,7 +62,7 @@
  > * 안드로이드 포팅 (기초)
 
 ### 중학교
- > * Java, C
+ > * Java, C, C++
  > * Web
  >   - HTML/ CSS
 
@@ -70,11 +76,27 @@
 ### 대학교
  > * Web
  >   - JSP, MySQL
+ >   - Unity
 
 <br><br>
 
 
 ## 개인 프로젝트
+### iOS 대표 프로젝트
+<a href="https://github.com/soc06212/WordCounter">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=WordCounter" />
+</a>
+
+### Android 대표 프로젝트
+<a href="https://github.com/soc06212/hm">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=hm" />
+</a>
+
+### Flutter 대표 프로젝트
+<a href="https://github.com/soc06212/HaruMap">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=HaruMap" />
+</a>
+
 ### 강고 포켓
 
 <img src="/res/kp/kp_app_icon.png" width="100px" height="100px">
@@ -229,29 +251,3 @@
 ###### Screenshots
 ![](/res/cafe_in_school/cafe_in_school_01.png)![](/res/cafe_in_school/cafe_in_school_02.png)![](/res/cafe_in_school/cafe_in_school_03.png)![](/res/cafe_in_school/cafe_in_school_04.png)
 
----
-
-### 암호 메시지
-
-<img src="/res/cow_snow.png" width="100px" height="100px">
-
-> 누구나 저마다의 소설 같은 이야기를 품고 살아갑니다. 나의 인생에 있어서 나는 가슴 아픈 멜로, 소소한 일상, 박진감 넘치는 액션, 꿈같은 SF 등, 한 편의 소설 속 주인공이 됩니다. CowSnow는 멋진 이야기를 품고 있는 사람이라면 누구나 나의 이야기를 펼쳐 나갈 수 있도록 도와줍니다. 컨텐츠를 소비하는 것을 넘어 생산할 수 있도록, 모두가 베스트 셀러 작가가 되는 세상, CowSnow입니다.
-> 
-> ###### 개발사양
-> * 플랫폼: Web
-> * 담당 역할
->   - 웹 앱 개발 및 유지보수
-> * 개발 기술
->   - JSP, HTML, CSS, JavaScript, MySQL, Maven
-> * 서버: Local
-> * GitHub 링크: <https://github.com/soc06212/CowSnow>
-
-###### Screenshots
-<p>
-  <img src="res/cow_snow/screenshot_01.png" alt="Welcome page" height="300px">
-  <img src="res/cow_snow/screenshot_02.png" alt="Main page" height="300px">
-  <img src="res/cow_snow/screenshot_03.png" alt="View page" height="300px">
-  <img src="res/cow_snow/screenshot_04.png" alt="Comment" height="300px">
-</p>
-
----
