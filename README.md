@@ -1,35 +1,46 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=33691e&height=300&section=header&text=Myung%20Geun%20Choi&fontSize=64&fontColor=c5e1a5&animtaion=fadeIn)
 
+<h3 align="center">🛠 What I can do 👨🏻‍💻</h3>
 <p align="center">
+  <a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=Swift&logoColor=white" /></a>
+  <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white" /></a>
+  <a href="https://java.com"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=C%2B%2B&logoColor=white" />
+  <a href="https://java.com"><img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white" /></a>
+</p>
+<p align="center">
+  <a href="https://www.apple.com/ios"><img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=iOS&logoColor=white" /></a>
+  <a href="https://developer.android.com"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white" /></a>
+  <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" /></a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+</p>
+
+
+<br><br>
+## Links
+* RiDsoft: <http://ridsoft.xyz>
+* email: [soc06212@gmail.com](mailto:soc06212@gmail.com)
+* GitHub: <https://github.com/soc06212/>
+* Google Play: [개발자 페이지](https://play.google.com/store/apps/dev?id=8395994437925298218)
+* App Store: ~~[개발자 페이지](https://itunes.apple.com/kr/developer
+  
+<br>
+<p>
   <a href="https://github.com/soc06212">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=soc06212&count_private=true&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=soc06212&count_private=true&show_icons=true"/>
   </a>
 </p>
 
 
-## 소개
-  <img src="/res/dev.png" width="260px"></img>
-  #### "빠르게 적응하고 함께 성장하는 개발자"
-  
-  * RiDsoft: <http://ridsoft.xyz>
-  * email: [soc06212@gmail.com](mailto:soc06212@gmail.com)
-  * GitHub: <https://github.com/soc06212/>
-  * Google Play: [개발자 페이지](https://play.google.com/store/apps/dev?id=8395994437925298218)
-  * App Store: ~~[개발자 페이지](https://itunes.apple.com/kr/developer/myeong-geun-choi/id1384350201?mt=8)~~ (라이센스 만료)
-  
-  > <pre>
-  >   "우리 모두는 자신의 힘으로 발견한 내용을 가장 쉽게 익힌다."
-  >   - 도널드 커누스 -
-  > </pre>
-  > 저는 초등학교 때부터 프로그래밍에 관심이 많은 학생이었습니다.
-  > <br>하지만 당시엔 어떻게 해라 알려주는 사람도 없었고, 검색을 하려고 해도 어떻게 검색하는지 몰랐습니다. 그래서 무작정 따라하고, 코드를 따라가 보고, 그림을 그려도 보았습니다.
-  > <br>그렇게 익힌 안드로이드는 제 주특기가 되었습니다. 또한 이 경험을 바탕으로 iOS와 웹 개발을 공부하여 여러가지 프로젝트를 진행했습니다.
-  > <br>새로운 것을 배우기 좋아하고, 빠르게 적응할 수 있는 개발자입니다.
-  
-
 <br><br>
 
-## 경력
+## 전적
   * [RiDsoft](http://ridsoft.xyz) (2012 ~ Now)
   * 대룡중학교 코딩동아리 DAC 창설 (2014 ~ 2015)
   * 강원고등학교 코딩동아리 Apphabet 창설 (2015 ~ 2018)
@@ -62,30 +73,6 @@
 
 <br><br>
 
-## 보유 기술
-  > * Android
-  >   - Kotlin
-  >   - Java (~ 10)
-  >   - Gradle, Maven
-  > 
-  > * iOS
-  >   - Swift (~ 4.2)
-  >   - Storyboard, CocoaPods, etc...
-  > 
-  > * Web
-  >   - HTML5, CSS3, JavaScript
-  >   - PHP
-  > 
-  > * Server
-  >   - JSP
-  >   - Node.JS
-  >   - MySQL
-  > 
-  > * Others
-  >   - C, C++
-  >   - VCS: Bitbucket을 주로 사용합니다.
-
-<br><br>
 
 ## 개인 프로젝트
 ### 강고 포켓
