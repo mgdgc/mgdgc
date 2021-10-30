@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=33691e&height=300&section=header&text=Myung%20Geun%20Choi&fontSize=64&fontColor=c5e1a5&animtaion=fadeIn)
 
-<p align="center">
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=soc06212&count_private=true&show_icons=true)
-</p>
+
+<a href="https://github.com/soc06212">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=soc06212&count_private=true&show_icons=true"/>
+</a>
 
 
 ## 소개
