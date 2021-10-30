@@ -1,18 +1,17 @@
-최명근 | Choi Myung-geun
-========================
-  ![이력서 한 눈에 보기](/res/cover.png)
+![header](https://capsule-render.vercel.app/api?type=waving&color=33691e&height=300&section=header&text=Myung%20Geun%20Choi&fontSize=64&fontColor=c5e1a5&animtaion=fadeIn)
+
+<p align="center">
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=soc06212&count_private=true&show_icons=true)
+</p>
+
 
 ## 소개
   <img src="/res/dev.png" width="260px"></img>
   #### "빠르게 적응하고 함께 성장하는 개발자"
   
-  
-  <img src="/res/profile.jpg" width="120px"></img>
-  
   * RiDsoft: <http://ridsoft.xyz>
   * email: [soc06212@gmail.com](mailto:soc06212@gmail.com)
   * GitHub: <https://github.com/soc06212/>
-  * Telegram: <https://t.me/soc06212>
   * Google Play: [개발자 페이지](https://play.google.com/store/apps/dev?id=8395994437925298218)
   * App Store: ~~[개발자 페이지](https://itunes.apple.com/kr/developer/myeong-geun-choi/id1384350201?mt=8)~~ (라이센스 만료)
   
