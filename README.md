@@ -77,6 +77,7 @@
  > * Web
  >   - JSP, MySQL
  >   - Unity
+ >   - Flutter
 
 <br><br>
 
