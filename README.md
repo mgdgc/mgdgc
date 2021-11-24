@@ -76,8 +76,8 @@
 ### 대학교
  > * Web
  >   - JSP, MySQL
- >   - Unity
- >   - Flutter
+ > * Unity
+ > * Flutter
 
 <br><br>
 
