@@ -92,6 +92,9 @@
 <a href="https://github.com/soc06212/KanggoPocket-iOS">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=KanggoPocket-iOS" />
 </a>
+<a href="https://github.com/soc06212/HaruMap">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=HaruMap" />
+</a>
 
 ### Android 대표 프로젝트
 <a href="https://github.com/soc06212/hm">
@@ -101,7 +104,3 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=KanggoPocket-Android" />
 </a>
 
-### Flutter 대표 프로젝트
-<a href="https://github.com/soc06212/HaruMap">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=HaruMap" />
-</a>
