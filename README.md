@@ -87,7 +87,7 @@
 ## 개인 프로젝트
 ### iOS 대표 프로젝트
 <a href="https://github.com/soc06212/word-counter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=counter" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=word-counter" />
 </a>
 <a href="https://github.com/soc06212/kanggo-pocket-ios">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=kanggo-pocket-ios" />
