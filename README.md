@@ -86,21 +86,21 @@
 
 ## 개인 프로젝트
 ### iOS 대표 프로젝트
-<a href="https://github.com/soc06212/WordCounter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=WordCounter" />
+<a href="https://github.com/soc06212/word-counter">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=counter" />
 </a>
-<a href="https://github.com/soc06212/KanggoPocket-iOS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=KanggoPocket-iOS" />
+<a href="https://github.com/soc06212/kanggo-pocket-ios">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=kanggo-pocket-ios" />
 </a>
-<a href="https://github.com/soc06212/HaruMap">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=HaruMap" />
+<a href="https://github.com/soc06212/harumap">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=harumap" />
 </a>
 
 ### Android 대표 프로젝트
-<a href="https://github.com/soc06212/hm">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=hm" />
+<a href="https://github.com/soc06212/hallym-map">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=hallym-map" />
 </a>
-<a href="https://github.com/soc06212/KanggoPocket-Android">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=KanggoPocket-Android" />
+<a href="https://github.com/soc06212/kanggo-pocket-android">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=kanggo-pocket-android" />
 </a>
 
