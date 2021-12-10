@@ -104,3 +104,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=kanggo-pocket-android" />
 </a>
 
+### Arduino 프로젝트
+<a href="https://github.com/soc06212/arduino-doorlock">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=arduino-doorlock" />
+</a>
