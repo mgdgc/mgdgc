@@ -37,6 +37,7 @@
 
 <br><br>
 ## 링크
+* Portfolio: <https://mgchoi.com>
 * RiDsoft: <http://ridsoft.xyz>
 * email: [soc06212@gmail.com](mailto:soc06212@gmail.com)
 * GitHub: <https://github.com/soc06212/>
