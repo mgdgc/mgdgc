@@ -38,7 +38,7 @@
 <br><br>
 ## 링크
 * Portfolio: <https://mgchoi.com>
-* RiDsoft: <http://ridsoft.xyz>
+* RiDsoft: <https://ridsoft.xyz>
 * email: [soc06212@gmail.com](mailto:soc06212@gmail.com)
 * GitHub: <https://github.com/soc06212/>
 * Google Play: [개발자 페이지](https://play.google.com/store/apps/dev?id=8395994437925298218)
@@ -82,6 +82,9 @@
  > * Unity
  > * Flutter
  > * Arduino
+ > * Web
+ >   - Spring/ Spring-Boot
+ >   - MyBatis
 
 <br><br>
 
