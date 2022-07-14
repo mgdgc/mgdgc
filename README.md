@@ -108,8 +108,8 @@
 <a href="https://github.com/soc06212/kanggo-pocket-android">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=kanggo-pocket-android" />
 </a>
-<a href="https://github.com/soc06212/DeepSeat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=DeepSeat" />
+<a href="https://github.com/soc06212/deepseat">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=deepseat" />
 </a>
 
 ### Arduino 프로젝트
