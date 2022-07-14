@@ -100,9 +100,6 @@
 <a href="https://github.com/soc06212/harumap">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=harumap" />
 </a>
-<a href="https://github.com/soc06212/DeepSeat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=DeepSeat" />
-</a>
 
 ### Android 대표 프로젝트
 <a href="https://github.com/soc06212/hallym-map">
@@ -110,6 +107,9 @@
 </a>
 <a href="https://github.com/soc06212/kanggo-pocket-android">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=kanggo-pocket-android" />
+</a>
+<a href="https://github.com/soc06212/DeepSeat">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=DeepSeat" />
 </a>
 
 ### Arduino 프로젝트
