@@ -97,8 +97,8 @@
 <a href="https://github.com/soc06212/kanggo-pocket-ios">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=kanggo-pocket-ios" />
 </a>
-<a href="https://github.com/soc06212/harumap">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=harumap" />
+<a href="https://github.com/soc06212/maedal">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=maedal" />
 </a>
 
 ### Android 대표 프로젝트
