@@ -38,16 +38,13 @@
 <br><br>
 ## 링크
 * Portfolio: <https://mgchoi.com>
-* RiDsoft: <https://ridsoft.xyz>
 * email: [soc06212@gmail.com](mailto:soc06212@gmail.com)
 * GitHub: <https://github.com/soc06212/>
-* Google Play: [개발자 페이지](https://play.google.com/store/apps/dev?id=8395994437925298218)
-* App Store: ~~[개발자 페이지](https://itunes.apple.com/kr/developer)~~
   
 
 <br><br>
 
-## 전적
+## 경험
   * [RiDsoft](http://ridsoft.xyz) (2012 ~ Now)
   * 대룡중학교 코딩동아리 DAC 창설 (2014 ~ 2015)
   * 강원고등학교 코딩동아리 Apphabet 창설 (2015 ~ 2018)
@@ -56,6 +53,15 @@
   * 한림대학교 소프트웨어융합대학 동아리 씨애랑 (2021 ~ Now)
     * 라떼팀 (2021~2022)
     * 라떼팀 팀장 (2022~)
+
+<br><br>
+
+## 수상실적
+
+<br>🥇 2022.9 | **제 9회 대한민국 SW융합 해커톤 대회** (대상)
+<br>🥈 2022.5 | **2022년 1학기 SW캡스톤디자인 경진대회** (금상)
+<br>🥈 2021.8 | **방학? 놀면 뭐하니? 오픈소스SW 개발 공모전** (은상)
+
 
 <br><br>
 
@@ -89,30 +95,73 @@
 <br><br>
 
 
-## 개인 프로젝트
-### iOS 대표 프로젝트
-<a href="https://github.com/soc06212/word-counter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=word-counter" />
-</a>
-<a href="https://github.com/soc06212/kanggo-pocket-ios">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=kanggo-pocket-ios" />
-</a>
-<a href="https://github.com/soc06212/maedal">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=maedal" />
-</a>
+## 대표 프로젝트
 
-### Android 대표 프로젝트
-<a href="https://github.com/soc06212/hallym-map">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=hallym-map" />
-</a>
-<a href="https://github.com/soc06212/kanggo-pocket-android">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=kanggo-pocket-android" />
-</a>
 <a href="https://github.com/soc06212/deepseat">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=deepseat" />
 </a>
 
-### Arduino 프로젝트
-<a href="https://github.com/soc06212/arduino-doorlock">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=arduino-doorlock" />
+* 카메라 기반 빈 좌석 탐지 애플리케이션
+* 개발 기간: 2022.02 ~ 2022.05
+* 담당
+  * 애플리케이션 디자인
+  * 안드로이드 애플리케이션 개발
+  * Spring 백엔드 서버 개발
+
+<br>
+<a href="https://github.com/soc06212/mgchoi-com">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=mgchoi-com" />
 </a>
+
+* [mgchoi.com] 포트폴리오 사이트
+* 개발 기간: 2022.6 ~ 2022.10
+* 담당
+  * Spring Boot 개발
+  
+<br>
+<a href="https://github.com/soc06212/kanggo-pocket-android">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=kanggo-pocket-android" />
+</a>
+<a href="https://github.com/soc06212/kanggo-pocket-ios">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=kanggo-pocket-ios" />
+</a>
+
+* 강원고등학교 시간표 애플리케이션
+* 개발 기간: 2015.02 ~2020.12
+* 담당
+  * 안드로이드 애플리케이션 개발
+  * iOS 애플리케이션 개발
+  * JSP 웹 애플리케이션 개발
+  
+<br>
+<a href="https://github.com/soc06212/smart-portfolio-android">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=smart-portfolio-android" />
+</a>
+
+* 스마트 포트폴리오 애플리케이션 (모바일 프로그래밍 기업체 과제)
+* 개발 기간: 2022.08 ~ 2022.08
+* 담당
+  * 안드로이드 애플리케이션 개발
+  
+<br>
+<a href="https://github.com/soc06212/hallym-map">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=hallym-map" />
+</a>
+
+* 한림대학교 캠퍼스 맵 애플리케이션
+* 개발 기간: 2021.06 ~ 2021.08
+* 담당
+  * 안드로이드 애플리케이션 개발
+  
+<br>
+<a href="https://github.com/soc06212/word-counter">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=word-counter" />
+</a>
+
+* 글자 수 카운팅 iOS 애플리케이션
+* 개발 기간: 2017.12 ~
+* 담당
+  * iOS 애플리케이션 개발
+  
+<br>
+
