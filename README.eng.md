@@ -1,45 +1,77 @@
-Choi Myeong-geun
-========================
-  ![Glance resume](/res/cover_eng.png)
+![header](https://capsule-render.vercel.app/api?type=waving&color=33691e&height=300&section=header&text=Myung%20Geun%20Choi&fontSize=64&fontColor=c5e1a5&animtaion=fadeIn)
 
-## Introduce
-  <img src="/res/dev.png" width="260px"></img>
-  #### "Fast-Adapt, Together-Grow Developer"
-  
-  
-  <img src="/res/profile.jpg" width="120px"></img>
-  
-  * RiDsoft: <http://ridsoft.xyz>
-  * email: [soc06212@gmail.com](mailto:soc06212@gmail.com)
-  * GitHub: <https://github.com/soc06212/>
-  * Telegram: <https://t.me/soc06212>
-  * Google Play: [Developer Page](https://play.google.com/store/apps/dev?id=8395994437925298218)
-  * App Store: [Developer Page](https://itunes.apple.com/kr/developer/myeong-geun-choi/id1384350201?mt=8)
-  
-  > I have been a student interested in programming since elementary school.
-  > <br>But at the time, no one told me how to do it, and I even did not know how to search on the internet for it. So I recklessly followed the online tutorial, followed the code, and even drew diagrams.
-  > <br>The Android that I have studied like that has become my specialty. Based on that experience, I also participated in various projects on iOS and web development.
-  > <br>I am a developer who likes to learn new things and can adapt quickly.
+<h3 align="center">🛠 What I can do 👨🏻‍💻</h3>
+<p align="center">
+  <a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=Swift&logoColor=white" /></a>
+  <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white" /></a>
+  <a href="https://java.com"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=C%2B%2B&logoColor=white" />
+  <a href="https://java.com"><img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white" /></a>
+</p>
+<p align="center">
+  <a href="https://www.apple.com/ios"><img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=iOS&logoColor=white" /></a>
+  <a href="https://developer.android.com"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white" /></a>
+  <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" /></a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+</p>
+
+
+<br>
+
+## Github Status
+<br><br>
+<a href="https://github.com/soc06212">
+    <img src="https://github-readme-stats.vercel.app/api?username=soc06212&count_private=true&show_icons=true"/>
+  </a>
+  <br><br>
+  <a href="https://github.com/soc06212">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soc06212" />
+  </a>
+
+
+<br><br>
+## Links
+* Portfolio: <https://mgchoi.com>
+* email: [soc06212@gmail.com](mailto:soc06212@gmail.com)
+* GitHub: <https://github.com/soc06212/>
   
 
 <br><br>
 
-## Career
+## Experiences
   * [RiDsoft](http://ridsoft.xyz) (2012 ~ Now)
-  * Coding club of Daeryong Junior High School, DAC (2014 ~ 2015)
-  * Coding club of Kangwon High School, Apphabet (2015 ~ 2018)
-  * School of Software, Hallym University (2018 ~ Now)
-  * Coding club of Hallym University, CHAOS (2018 ~ Now)
+  * Daeryong Application Club (Junior High School) (2014 ~ 2015)
+  * Kangwon High School Coding Club : Apphabet (2015 ~ 2018)
+  * Hallym Univ. (2018 ~ Now)
+  * Hallym Univ. Coding Club CHAOS (2018 ~ 2019)
+  * Hallym Univ. Coding Club Caerang (2021 ~ Now)
+    * Member of Team Latte (2021~2022)
+    * Leader of Team Latte (2022~)
 
 <br><br>
 
-## Skill Timeline
+## Awards
+
+<br>🥇 2022.9 | **9th Republic Of Korea Software Convergence Hackathon**
+<br>🥈 2022.5 | **2022 1st Semester Software Capstone Design**
+<br>🥈 2021.8 | **Summer Vacation Opensource SW Awards**
+
+
+<br><br>
+
+## Tech Timeline
 ### Elementary School
- > * Java (Basic)
- > * Android porting (Basic)
+ > * Java
+ > * Android Basics
 
 ### Junior High School
- > * Java, C
+ > * Java, C, C++
  > * Web
  >   - HTML/ CSS
 
@@ -53,185 +85,67 @@ Choi Myeong-geun
 ### University
  > * Web
  >   - JSP, MySQL
+ > * Unity
+ > * Flutter
+ > * Arduino
+ > * Web
+ >   - Spring/ Spring-Boot
+ >   - MyBatis
 
 <br><br>
 
-## Skills
-  > * Android
-  >   - Kotlin
-  >   - Java (~ 10)
-  >   - Gradle, Maven
-  > 
-  > * iOS
-  >   - Swift (~ 4.2)
-  >   - Storyboard, CocoaPods, etc...
-  > 
-  > * Web
-  >   - HTML5, CSS3, JavaScript
-  >   - PHP
-  > 
-  > * Server
-  >   - JSP
-  >   - Node.JS
-  >   - MySQL
-  > 
-  > * Others
-  >   - C, C++
-  >   - VCS: Bitbucket
 
-<br><br>
+## Projects
 
-## Personal Project
-### Kanggo Pocket
+<a href="https://github.com/soc06212/deepseat">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=deepseat" />
+</a>
 
-<img src="/res/kp/kp_app_icon.png" width="100px" height="100px">
+* Single camera based empty seat detecting application
+* 2022.02 ~ 2022.05
 
-> Kanggo Pocket is an application designed for Kangwon High School Students. It provides essential information such as schedule table, meal info, notifications, and etc.
-> 
-> ###### Development Specifications
-> * Platform: Android, iOS
-> * Role
->   - Android, iOS app development/ maintenance
->   - Server data management
-> * Skill Used
->   - Android: (~ 2017) Java -> (2017 ~ Now) **Kotlin**
->   - iOS: **Swift**
->   - Server: SpreadSheet script
-> * Server: Google SpreadSheet
-> * Store Link
->   - Android: <https://play.google.com/store/apps/details?id=com.RiDsoft.kangwonhighschool>
->   - iOS: ~~<https://itunes.apple.com/kr/app/강고-포켓/id1384350202?mt=8>~~ (No more supported)
-> * GitHub
->   - Android: <https://github.com/soc06212/Kanggo-Pocket>
->   - iOS: (Soon)
+<br>
+<a href="https://github.com/soc06212/mgchoi-com">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=mgchoi-com" />
+</a>
 
-###### Screenshots (Android)
-![](/res/kp/kp_01.jpg)![](/res/kp/kp_02.jpg)![](/res/kp/kp_03.jpg)![](/res/kp/kp_04.jpg)
+* <https://mgchoi.com> portfolio website
+* 2022.6 ~ 2022.10
 
-###### Screenshots (iOS)
-![](/res/kp/ios_kp_01.png)![](/res/kp/ios_kp_02.png)![](/res/kp/ios_kp_03.png)![](/res/kp/ios_kp_04.png)
+<br>
+<a href="https://github.com/soc06212/kanggo-pocket-android">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=kanggo-pocket-android" />
+</a>
+<a href="https://github.com/soc06212/kanggo-pocket-ios">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=kanggo-pocket-ios" />
+</a>
 
----
+* Kangwon High School Application
+* 2015.02 ~2020.12
 
-### Capture in School
+<br>
+<a href="https://github.com/soc06212/smart-portfolio-android">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=smart-portfolio-android" />
+</a>
 
-<img src="/res/cis.png" width="100px" height="100px">
+* Smart Portfolio application (Mobile programming course final project)
+* 2022.08 ~ 2022.08
 
-> Combines multiple screenshots in one.
-> 
-> ###### Development Specifications
-> * Platform: Android
-> * Role
->   - Android app development/ maintenance
-> * Skill Used
->   - Android: **Java**
-> * Server: **None**
-> * Store Link
->   - Android: ~~https://play.google.com/store/apps/details?id=com.ridsoft.internetcapture~~ (No more supported)
+<br>
+<a href="https://github.com/soc06212/hallym-map">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=hallym-map" />
+</a>
 
----
+* Hallym Univ. campus map application
+* 2021.06 ~ 2021.08
 
-### CGHS People
+<br>
+<a href="https://github.com/soc06212/word-counter">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=word-counter" />
+</a>
 
-<img src="/res/cghs.png" width="100px" height="100px">
+* Simple word counter iOS Application
+* 2017.12 ~
 
-> CGHS People is an application designed for Chuncheon Girls High School Students. It provides essential information such as schedule table, meal info, notifications, and etc.
-> 
-> ###### Development Specifications
-> * Platform: Android
-> * Role
->   - Android app development/ maintenance
->   - Server data management
-> * Skill Used
->   - Android: **Java**
->   - Server: SpreadSheet script
-> * Server: Google SpreadSheet
-> * Store Link
->   - Android: <https://play.google.com/store/apps/details?id=com.ridsoft.cghs>
-
-###### Screenshots
-![](/res/cghs/cghs_01.png)![](/res/cghs/cghs_02.png)![](/res/cghs/cghs_03.png)
-
----
-
-### OLED Calibrator
-
-<img src="/res/oled_cal.png" width="100px" height="100px">
-
-> OLED Calibrator adjusts color distortion on OLED screen by masking filter on it.
-> 
-> ###### Development Specifications
-> * Platform: Android
-> * Role
->   - Android app development/ maintenance
-> * Skill Used
->   - Android: (~ 2017) Java -> (2017 ~ Now) **Kotlin**
-> * Server: **None**
-> * Store Link
->   - Android: ~~<https://play.google.com/store/apps/details?id=xyz.ridsoft.oledcalibration>~~ (Support delayed)
-
-###### Screenshots
-![](/res/oled_cal/oled_01.png)![](/res/oled_cal/oled_02.png)![](/res/oled_cal/oled_03.png)![](/res/oled_cal/oled_04.png)
-
----
-
-### Writing Counter
-
-<img src="/res/wc.png" width="100px" height="100px">
-
-> With Writing Counter, you can check the number of characters easily and quickly. It provides convenience functions such as blank options setting or saving / loading.
-> 
-> ###### Development Specifications
-> * Platform: iOS
-> * Role
->   - iOS app development/ maintenance
-> * Skill Used
->   - iOS: **Swift**
-> * Server: **None**
-> * Store Link
->   - iOS: <https://itunes.apple.com/us/app/워드-카운터/id1436002897?mt=8>
-
-###### Screenshots
-![](/res/wc/wc_01.png)![](/res/wc/wc_02.png)![](/res/wc/wc_03.png)![](/res/wc/wc_04.png)
-
----
-### Encrypt Message
-
-<img src="/res/sec_msg.png" width="100px" height="100px">
-
-> Encrypt Message can be used by people who know the same password to secretly send short messages.
-> 
-> ###### Development Specifications
-> * Platform: Web
-> * Role
->   - Web app development/ maintenance
-> * Skill Used
->   - HTML, CSS, JavaScript, Node.JS
-> * Server: **None**
-> * Store Link: **None**
-
-###### Screenshots
-![](/res/sec_msg/sec_04.png)![](/res/sec_msg/sec_01.png)![](/res/sec_msg/sec_02.png)![](/res/sec_msg/sec_03.png)
-
----
-
-### Cafe in School
-
-<img src="/res/ic_cafe_in_school.png" width="100px" height="100px">
-
-> Cafe in School is an application that
-> 
-> ###### Development Specifications
-> * Platform: Android
-> * Role
->   - Android app development/ maintenance
->   - Server script work
-> * Skill Used
->   - Android: **Kotlin**
->   - Server: SpreadSheet script
-> * Server: Google SpreadSheet
-> * Store Link: **None**
-
-###### Screenshots
-![](/res/cafe_in_school/cafe_in_school_01.png)![](/res/cafe_in_school/cafe_in_school_02.png)![](/res/cafe_in_school/cafe_in_school_03.png)![](/res/cafe_in_school/cafe_in_school_04.png)
+  <br>
 
