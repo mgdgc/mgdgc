@@ -113,7 +113,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=mgchoi-com" />
 </a>
 
-* [mgchoi.com] 포트폴리오 사이트
+* <https://mgchoi.com> 포트폴리오 사이트
 * 개발 기간: 2022.6 ~ 2022.10
 * 담당
   * Spring Boot 개발
