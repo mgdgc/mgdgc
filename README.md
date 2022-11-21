@@ -26,12 +26,12 @@
 
 ## Github Status
 <br><br>
-<a href="https://github.com/soc06212">
-    <img src="https://github-readme-stats.vercel.app/api?username=soc06212&count_private=true&show_icons=true"/>
+<a href="https://github.com/mgdgc">
+    <img src="https://github-readme-stats.vercel.app/api?username=mgdgc&count_private=true&show_icons=true"/>
   </a>
   <br><br>
-  <a href="https://github.com/soc06212">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soc06212" />
+  <a href="https://github.com/mgdgc">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgdgc" />
   </a>
 
 
@@ -39,7 +39,7 @@
 ## 링크
 * Portfolio: <https://mgchoi.com>
 * email: [soc06212@gmail.com](mailto:soc06212@gmail.com)
-* GitHub: <https://github.com/soc06212/>
+* GitHub: <https://github.com/mgdgc/>
   
 
 <br><br>
@@ -97,8 +97,8 @@
 
 ## 대표 프로젝트
 
-<a href="https://github.com/soc06212/deepseat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=deepseat" />
+<a href="https://github.com/mgdgc/deepseat">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mgdgc&repo=deepseat" />
 </a>
 
 * 카메라 기반 빈 좌석 탐지 애플리케이션
@@ -109,8 +109,8 @@
   * Spring 백엔드 서버 개발
 
 <br>
-<a href="https://github.com/soc06212/mgchoi-com">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=mgchoi-com" />
+<a href="https://github.com/mgdgc/mgchoi-com">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mgdgc&repo=mgchoi-com" />
 </a>
 
 * <https://mgchoi.com> 포트폴리오 사이트
@@ -119,11 +119,11 @@
   * Spring Boot 개발
   
 <br>
-<a href="https://github.com/soc06212/kanggo-pocket-android">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=kanggo-pocket-android" />
+<a href="https://github.com/mgdgc/kanggo-pocket-android">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mgdgc&repo=kanggo-pocket-android" />
 </a>
-<a href="https://github.com/soc06212/kanggo-pocket-ios">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=kanggo-pocket-ios" />
+<a href="https://github.com/mgdgc/kanggo-pocket-ios">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mgdgc&repo=kanggo-pocket-ios" />
 </a>
 
 * 강원고등학교 시간표 애플리케이션
@@ -134,8 +134,8 @@
   * JSP 웹 애플리케이션 개발
   
 <br>
-<a href="https://github.com/soc06212/smart-portfolio-android">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=smart-portfolio-android" />
+<a href="https://github.com/mgdgc/smart-portfolio-android">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mgdgc&repo=smart-portfolio-android" />
 </a>
 
 * 스마트 포트폴리오 애플리케이션 (모바일 프로그래밍 기업체 과제)
@@ -144,8 +144,8 @@
   * 안드로이드 애플리케이션 개발
   
 <br>
-<a href="https://github.com/soc06212/hallym-map">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=hallym-map" />
+<a href="https://github.com/mgdgc/hallym-map">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mgdgc&repo=hallym-map" />
 </a>
 
 * 한림대학교 캠퍼스 맵 애플리케이션
@@ -154,8 +154,8 @@
   * 안드로이드 애플리케이션 개발
   
 <br>
-<a href="https://github.com/soc06212/word-counter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soc06212&repo=word-counter" />
+<a href="https://github.com/mgdgc/word-counter">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mgdgc&repo=word-counter" />
 </a>
 
 * 글자 수 카운팅 iOS 애플리케이션
