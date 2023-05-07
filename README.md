@@ -5,15 +5,15 @@
   <a href="https://www.apple.com/ios"><img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=iOS&logoColor=white" /></a>
   <a href="https://developer.apple.com/kr/swift/"><img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=Swift&logoColor=white" /></a>
   <a href="https://developer.apple.com/kr/xcode/swiftui/"><img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat&logo=Swift&logoColor=black"/></a>
-  <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white" /></a>
 </p>
 <p align="center">
   <a href="https://developer.android.com"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white" /></a>
+  <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white" /></a>
   <a href="https://java.com"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=C%2B%2B&logoColor=white" />
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=C%2B%2B&logoColor=white" />
   <a href="https://unity.com"><img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white" /></a>
   <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" /></a>
 </p>
