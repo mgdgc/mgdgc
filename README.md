@@ -48,7 +48,7 @@
 <br><br>
 
 ## 경험
-  * [RiDsoft](http://ridsoft.xyz) (2012 ~ Now)
+  * RiDsoft (2012 ~ Now)
   * 대룡중학교 코딩동아리 DAC 창설 (2014 ~ 2015)
   * 강원고등학교 코딩동아리 Apphabet 창설 (2015 ~ 2018)
   * 한림대학교 소프트웨어융합대학 재학중 (2018 ~ Now)
@@ -56,49 +56,19 @@
   * 한림대학교 소프트웨어융합대학 동아리 씨애랑 (2021 ~ Now)
     * 라떼팀 (2021~2022)
     * 라떼팀 팀장 (2022~)
-  * Apple Developer Academy @Postech 2기 (2023)
+  * **Apple Developer Academy @Postech 2기 (2023)**
 
 <br><br>
 
 ## 수상실적
 
 <br>🥇 2022.09 | **제 9회 대한민국 SW융합 해커톤 대회** (대상)
+<br>🥇 2022.12 | **더존 모바일 개발자 과정 프로젝트 발표회** (최우수상)
 <br>🥈 2022.05 | **2022년 1학기 SW캡스톤디자인 경진대회** (금상)
 <br>🥈 2021.08 | **방학? 놀면 뭐하니? 오픈소스SW 개발 공모전** (은상)
-<br>🥇 2022.12 | **더존 모바일 개발자 과정 프로젝트 발표회** (최우수상)
 
 
 <br><br>
-
-## 기술 타임라인
-### 초등학교
- > * Java (기초)
- > * 안드로이드 포팅 (기초)
-
-### 중학교
- > * Java, C, C++
- > * Web
- >   - HTML/ CSS
-
-### 고등학교
- > * Kotlin/ Python/ Ruby
- > * Swift
- > * Web
- >   - JavaScript/ PHP
- >   - AWS Elastic Compute Cloud (EC2)
- 
-### 대학교
- > * Web
- >   - JSP, MySQL
- > * Unity
- > * Flutter
- > * Arduino
- > * Web
- >   - Spring/ Spring-Boot
- >   - MyBatis
-
-<br><br>
-
 
 ## 대표 프로젝트
 
@@ -114,8 +84,20 @@
   * Spring 백엔드 서버 개발
 
 <br>
+
 <a href="https://github.com/mgdgc/mgchoi-com">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mgdgc&repo=mgchoi-com" />
+</a>
+
+* <https://mgchoi.com> 포트폴리오 사이트
+* 개발 기간: 2022.11 ~ 2023.01
+* 담당
+  * Nodejs 기반으로 프로젝트 변경
+
+<br>
+
+<a href="https://github.com/mgdgc/old-mgchoi-com">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mgdgc&repo=old-mgchoi-com" />
 </a>
 
 * <https://mgchoi.com> 포트폴리오 사이트
@@ -124,6 +106,7 @@
   * Spring Boot 개발
   
 <br>
+
 <a href="https://github.com/mgdgc/kanggo-pocket-android">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mgdgc&repo=kanggo-pocket-android" />
 </a>
@@ -159,12 +142,12 @@
   * 안드로이드 애플리케이션 개발
   
 <br>
-<a href="https://github.com/mgdgc/word-counter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mgdgc&repo=word-counter" />
+<a href="https://github.com/mgdgc/word-counter-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mgdgc&repo=word-counter-2" />
 </a>
 
 * 글자 수 카운팅 iOS 애플리케이션
-* 개발 기간: 2017.12 ~
+* 개발 기간: 2023.04 ~ 2023.05
 * 담당
   * iOS 애플리케이션 개발
   
