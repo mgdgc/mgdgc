@@ -34,7 +34,7 @@
   </a>
   <br><br>
   <a href="https://github.com/mgdgc">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgdgc" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgdgc&layout=compact&hide=javascript,html,scss" />
   </a>
 
 
@@ -64,6 +64,7 @@
 
 <br>🏅 2023.05 | **WWDC23 Swift Student Challenge Winner**
 <br>🥇 2022.09 | **제 9회 대한민국 SW융합 해커톤 대회** (대상)
+<br>🥈 2022.09 | **제 10회 대한민국 SW융합 해커톤 대회** (우수상)
 <br>🥇 2022.12 | **더존 모바일 개발자 과정 프로젝트 발표회** (최우수상)
 <br>🥈 2022.05 | **2022년 1학기 SW캡스톤디자인 경진대회** (금상)
 <br>🥈 2021.08 | **방학? 놀면 뭐하니? 오픈소스SW 개발 공모전** (은상)
@@ -151,6 +152,18 @@
 * 개발 기간: 2023.04 ~ 2023.05
 * 담당
   * iOS 애플리케이션 개발
+  
+<br>
+
+<a href="https://github.com/mgdgc/earth-debugger">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mgdgc&repo=earth-debugger" />
+</a>
+
+* 아픈 지구를 코딩으로 치료하자! 코딩 교육 앱
+* **WWDC 2023 Swift Student Challenge** Winner
+* 개발 기간: 2023.04 ~ 2023.05
+* 담당
+  * Swift Playground
   
 <br>
 
