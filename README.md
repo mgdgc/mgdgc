@@ -154,6 +154,16 @@
   * iOS 애플리케이션 개발
   
 <br>
+<a href="https://github.com/mgdgc/paste-wallet">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mgdgc&repo=paste-wallet" />
+</a>
+
+* 카드 및 계좌번호 지갑 iOS 애플리케이션
+* 개발 기간: 2023.04 ~ 2023.05
+* 담당
+  * iOS 애플리케이션 개발
+  
+<br>
 
 <a href="https://github.com/mgdgc/earth-debugger">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mgdgc&repo=earth-debugger" />
