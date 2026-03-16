@@ -27,16 +27,6 @@
 
 <br>
 
-## Github Status
-<br><br>
-<a href="https://github.com/mgdgc">
-    <img src="https://github-readme-stats.vercel.app/api?username=mgdgc&count_private=true&show_icons=true"/>
-  </a>
-  <br><br>
-  <a href="https://github.com/mgdgc">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgdgc&layout=compact&hide=javascript,html,scss" />
-  </a>
-
 
 <br><br>
 ## 링크
@@ -48,16 +38,16 @@
 <br><br>
 
 ## 경험
-  * 한림대학교 소프트웨어융합대학 (2018 ~ 2025)
-  * **Apple Developer Academy @Postech 2기 (2023)**
   * WePlanet iOS Developer (2024~2025)
+  * Apple Developer Academy @Postech 2기 (2023)
+  * 한림대학교 소프트웨어융합대학 (2018 ~ 2025)
 
 <br><br>
 
 ## 수상실적
 
-<br>🏅 2023.05 | **WWDC23 Swift Student Challenge Winner**
 <br>🥈 2023.09 | **제 10회 대한민국 SW융합 해커톤 대회** (우수상)
+<br>🏅 2023.05 | **WWDC23 Swift Student Challenge Winner**
 <br>🥇 2022.12 | **더존 모바일 개발자 과정 프로젝트 발표회** (최우수상)
 <br>🥇 2022.09 | **제 9회 대한민국 SW융합 해커톤 대회** (대상)
 <br>🥈 2022.05 | **2022년 1학기 SW캡스톤디자인 경진대회** (금상)
@@ -68,9 +58,7 @@
 
 ## 대표 프로젝트
 
-<a href="https://github.com/mgdgc/deepseat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mgdgc&repo=deepseat" />
-</a>
+### [DeepSeat](https://github.com/mgdgc/deepseat)
 
 * 카메라 기반 빈 좌석 탐지 애플리케이션
 * 개발 기간: 2022.02 ~ 2022.05
@@ -81,66 +69,42 @@
 
 <br>
 
-<a href="https://github.com/mgdgc/mgchoi-com">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mgdgc&repo=mgchoi-com" />
-</a>
+### [포트폴리오 사이트](https://mgchoi.com)
 
-* <https://mgchoi.com> 포트폴리오 사이트
 * 개발 기간: 2022.11 ~ 2023.01
 * 담당
   * Nodejs 기반으로 프로젝트 변경
 
 <br>
 
-<a href="https://github.com/mgdgc/old-mgchoi-com">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mgdgc&repo=old-mgchoi-com" />
-</a>
+### [(구) 포트폴리오 사이트](https://mgchoi.com)
 
-* <https://mgchoi.com> 포트폴리오 사이트
 * 개발 기간: 2022.6 ~ 2022.10
 * 담당
   * Spring Boot 개발
   
 <br>
 
-<a href="https://github.com/mgdgc/kanggo-pocket-android">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mgdgc&repo=kanggo-pocket-android" />
-</a>
-<a href="https://github.com/mgdgc/kanggo-pocket-ios">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mgdgc&repo=kanggo-pocket-ios" />
-</a>
+### 강고 포켓
 
-* 강원고등학교 시간표 애플리케이션
-* 개발 기간: 2015.02 ~2020.12
-* 담당
-  * 안드로이드 애플리케이션 개발
-  * iOS 애플리케이션 개발
-  * JSP 웹 애플리케이션 개발
-  
-<br>
-<a href="https://github.com/mgdgc/smart-portfolio-android">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mgdgc&repo=smart-portfolio-android" />
-</a>
+### [스마트 포트폴리오 애플리케이션 (모바일 프로그래밍 기업체 과제)](https://github.com/mgdgc/smart-portfolio-android)
 
-* 스마트 포트폴리오 애플리케이션 (모바일 프로그래밍 기업체 과제)
 * 개발 기간: 2022.08 ~ 2022.08
 * 담당
   * 안드로이드 애플리케이션 개발
-  
+
 <br>
-<a href="https://github.com/mgdgc/hallym-map">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mgdgc&repo=hallym-map" />
-</a>
+
+### [HallymMap](https://github.com/mgdgc/hallym-map)
 
 * 한림대학교 캠퍼스 맵 애플리케이션
 * 개발 기간: 2021.06 ~ 2021.08
 * 담당
   * 안드로이드 애플리케이션 개발
-  
+ 
 <br>
-<a href="https://github.com/mgdgc/word-counter-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mgdgc&repo=word-counter-2" />
-</a>
+
+### [WordCounter](https://github.com/mgdgc/word-counter-2)
 
 * 글자 수 카운팅 iOS 애플리케이션
 * 개발 기간: 2023.04 ~ 2023.05
@@ -148,9 +112,8 @@
   * iOS 애플리케이션 개발
   
 <br>
-<a href="https://github.com/mgdgc/paste-wallet">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mgdgc&repo=paste-wallet" />
-</a>
+
+### [PasteWallet](https://github.com/mgdgc/paste-wallet)
 
 * 카드 및 계좌번호 지갑 iOS 애플리케이션
 * 개발 기간: 2023.04 ~ 2023.05
@@ -159,9 +122,7 @@
   
 <br>
 
-<a href="https://github.com/mgdgc/earth-debugger">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mgdgc&repo=earth-debugger" />
-</a>
+### [EarthDebugger](https://github.com/mgdgc/earth-debugger)
 
 * 아픈 지구를 코딩으로 치료하자! 코딩 교육 앱
 * **WWDC 2023 Swift Student Challenge** Winner
