@@ -85,8 +85,6 @@
   
 <br>
 
-### 강고 포켓
-
 ### [스마트 포트폴리오 애플리케이션 (모바일 프로그래밍 기업체 과제)](https://github.com/mgdgc/smart-portfolio-android)
 
 * 개발 기간: 2022.08 ~ 2022.08
