@@ -38,7 +38,7 @@
 <br><br>
 
 ## 경험
-  * WePlanet iOS Developer (2024~2025)
+  * WePlanet iOS Developer (2024~)
   * Apple Developer Academy @Postech 2기 (2023)
   * 한림대학교 소프트웨어융합대학 (2018 ~ 2025)
 
@@ -130,3 +130,4 @@
   
 <br>
 
+※ *일부 혹은 전체 Repository는 보호를 위해 GitLab으로 이전됨*
